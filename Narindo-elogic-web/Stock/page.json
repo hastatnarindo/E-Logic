@@ -1,0 +1,136 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9307B67A-FC7A-4B50-B5AF-8C2536613211",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -393,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "7213BBE3-469F-4E09-BB5A-BDC6C0F7D768"
+    },
+    {
+      "class": "artboard",
+      "id": "F3313651-58DE-4E72-B374-23BE05A03BC1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F02BBCA-3075-4C5F-A655-3D7B5E36B207"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F20FAF98-F5D3-4C43-B4F3-83968FE0B155"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8DD44F8D-9D59-41FC-A949-757266CC622F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4A2AE00-F404-4998-9467-B0CE75FD55F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7C8B8C12-FF82-4FEB-B1A0-648D7B872E6F"
+    }
+  ],
+  "name": "Stock",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "AB9416AC-ED46-44C7-BD4F-C15DE0EA6546",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.betterthantomorrow.sketch.distributor": {
+      "distributorCenterSpacing": 0,
+      "distributorDimension": 0,
+      "distributorSpacing": "30"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -319,
+    "guides": [
+    ]
+  }
+}
